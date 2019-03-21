@@ -9,3 +9,18 @@ This is one of the crucial steps (_**4th step**_) according to my **"Guidelines 
 Data contains various different features and our job is to identify WHICH ones to use and HOW to use them.
 
 **Source:** https://www.kaggle.com/iabhishekofficial/mobile-price-classification#train.csv
+
+## Libraries used:
+* Numpy
+* Pandas
+* Matplotlib
+
+## Goal of the Practice
+* Hands-on detailed practice on Pandas
+* Looking at **Feature Selection** techniques
+* Looking at **Feature Extraction** techniques
+* Visualizations at each step
+
+## Tasks Performed
+1. Hands-on detailed practice on Pandas.
+2. 
